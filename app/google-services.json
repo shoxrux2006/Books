@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412851063832",
+    "project_id": "book-app-2d967",
+    "storage_bucket": "book-app-2d967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412851063832:android:5b9bd4c5cccdb97d1c076d",
+        "android_client_info": {
+          "package_name": "uz.gita.bookappShoxruh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412851063832-cg2cv8g5fca96ambe9s5publbl1n78vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Mg1vOh6VaBSfMsV2IrPT8IckMkEmR4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412851063832-cg2cv8g5fca96ambe9s5publbl1n78vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
